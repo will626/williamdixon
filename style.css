@@ -10,7 +10,7 @@ body {
 .navbar {
   display: flex;
   flex-wrap: wrap;
-  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg00.deviantart.net%2F0149%2Fi%2F2009%2F322%2Ff%2Fb%2Fsea_clouds_background_texture_by_stitcherladyxx.jpg&imgrefurl=https%3A%2F%2Fwww.deviantart.com%2Fstitcherladyxx%2Fart%2FSea-Clouds-Background-Texture-144060203&docid=pvYxPKgUSFp2hM&tbnid=H1WAGcA8PStjWM%3A&vet=10ahUKEwiH8sHuqJLdAhWniOAKHf_JChkQMwj4ASgBMAE..i&w=800&h=800&safe=strict&bih=918&biw=1280&q=cool%20css%20backgrounds&ved=0ahUKEwiH8sHuqJLdAhWniOAKHf_JChkQMwj4ASgBMAE&iact=mrc&uact=8");
+  background-image: url("https://www.maxpixel.net/static/photo/1x/Texture-Blue-Fabric-Fabric-899720.jpg");
 }
 .navbar li{
   display: inline-block;
