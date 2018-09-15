@@ -42,3 +42,153 @@ body {
   margin-right: auto;
   width: 50%;
 }
+
+.LBbutton {
+  border: 1px solid #0a3c59;
+   background: #659dc2;
+   background: -webkit-gradient(linear, left top, left bottom, from(#cbe7fa), to(#659dc2));
+   background: -webkit-linear-gradient(top, #cbe7fa, #659dc2);
+   background: -moz-linear-gradient(top, #cbe7fa, #659dc2);
+   background: -ms-linear-gradient(top, #cbe7fa, #659dc2);
+   background: -o-linear-gradient(top, #cbe7fa, #659dc2);
+   background-image: -ms-linear-gradient(top, #cbe7fa 0%, #659dc2 100%);
+   padding: 4px 8px;
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   text-shadow: #afddfa 0 1px 0;
+   color: #000000;
+   font-size: 15px;
+   font-family: helvetica, serif;
+   text-decoration: none;
+   vertical-align: middle;
+}
+
+.LBbutton:hover {
+  border: 1px solid #112836;
+  text-shadow: #3d7799 0 1px 0;
+  background: #47aaed;
+  background: -webkit-gradient(linear, left top, left bottom, from(#6ec5ff), to(#47aaed));
+  background: -webkit-linear-gradient(top, #6ec5ff, #47aaed);
+  background: -moz-linear-gradient(top, #6ec5ff, #47aaed);
+  background: -ms-linear-gradient(top, #6ec5ff, #47aaed);
+  background: -o-linear-gradient(top, #6ec5ff, #47aaed);
+  background-image: -ms-linear-gradient(top, #6ec5ff 0%, #47aaed 100%);
+  color: #ffffff;
+}
+
+.LBbutton:active {
+  text-shadow: #1e4158 0 1px 0;
+   border: 1px solid #0a3c59;
+   background: #c9e4f7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#6196ba), to(#47aaed));
+   background: -webkit-linear-gradient(top, #6196ba, #c9e4f7);
+   background: -moz-linear-gradient(top, #6196ba, #c9e4f7);
+   background: -ms-linear-gradient(top, #6196ba, #c9e4f7);
+   background: -o-linear-gradient(top, #6196ba, #c9e4f7);
+   background-image: -ms-linear-gradient(top, #6196ba 0%, #c9e4f7 100%);
+   color: #fff;
+}
+
+.Nbutton {
+  border: 1px solid #0a3c59;
+  background: #00263d;
+  background: -webkit-gradient(linear, left top, left bottom, from(#025e9c), to(#00263d));
+  background: -webkit-linear-gradient(top, #025e9c, #00263d);
+  background: -moz-linear-gradient(top, #025e9c, #00263d);
+  background: -ms-linear-gradient(top, #025e9c, #00263d);
+  background: -o-linear-gradient(top, #025e9c, #00263d);
+  background-image: -ms-linear-gradient(top, #025e9c 0%, #00263d 100%);
+  padding: 4px 8px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+  -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+  box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+  text-shadow: #8cd3ff 0 1px 0;
+  color: #f5f2f5;
+  font-size: 15px;
+  font-family: helvetica, serif;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.Nbutton:hover {
+  border: 1px solid #112836;
+   text-shadow: #3d7799 0 1px 0;
+   background: #012740;
+   background: -webkit-gradient(linear, left top, left bottom, from(#002842), to(#012740));
+   background: -webkit-linear-gradient(top, #002842, #012740);
+   background: -moz-linear-gradient(top, #002842, #012740);
+   background: -ms-linear-gradient(top, #002842, #012740);
+   background: -o-linear-gradient(top, #002842, #012740);
+   background-image: -ms-linear-gradient(top, #002842 0%, #012740 100%);
+   color: #ffffff;
+}
+
+.Nbutton:active {
+  text-shadow: #085687 0 1px 0;
+   border: 1px solid #0a3c59;
+   background: #025e9c;
+   background: -webkit-gradient(linear, left top, left bottom, from(#00233b), to(#012740));
+   background: -webkit-linear-gradient(top, #00233b, #025e9c);
+   background: -moz-linear-gradient(top, #00233b, #025e9c);
+   background: -ms-linear-gradient(top, #00233b, #025e9c);
+   background: -o-linear-gradient(top, #00233b, #025e9c);
+   background-image: -ms-linear-gradient(top, #00233b 0%, #025e9c 100%);
+   color: #fff;
+}
+
+.Lbutton {
+  border: 1px solid #01070a;
+  background: #727296;
+  background: -webkit-gradient(linear, left top, left bottom, from(#aaaacf), to(#727296));
+  background: -webkit-linear-gradient(top, #aaaacf, #727296);
+  background: -moz-linear-gradient(top, #aaaacf, #727296);
+  background: -ms-linear-gradient(top, #aaaacf, #727296);
+  background: -o-linear-gradient(top, #aaaacf, #727296);
+  background-image: -ms-linear-gradient(top, #aaaacf 0%, #727296 100%);
+  padding: 4px 8px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+  -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+  box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+  text-shadow: #000305 0 1px 0;
+  color: #f5f2f5;
+  font-size: 15px;
+  font-family: helvetica, serif;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.Lbutton:hover {
+  border: 1px solid #010203;
+  text-shadow: #010305 0 1px 0;
+  background: #727296;
+  background: -webkit-gradient(linear, left top, left bottom, from(#727296), to(#727296));
+  background: -webkit-linear-gradient(top, #727296, #727296);
+  background: -moz-linear-gradient(top, #727296, #727296);
+  background: -ms-linear-gradient(top, #727296, #727296);
+  background: -o-linear-gradient(top, #727296, #727296);
+  background-image: -ms-linear-gradient(top, #727296 0%, #727296 100%);
+  color: #ffffff;
+}
+
+.Lbutton:active {
+  text-shadow: #000000 0 1px 0;
+  border: 1px solid #000000;
+  background: #aaaacf;
+  background: -webkit-gradient(linear, left top, left bottom, from(#727296), to(#727296));
+  background: -webkit-linear-gradient(top, #727296, #aaaacf);
+  background: -moz-linear-gradient(top, #727296, #aaaacf);
+  background: -ms-linear-gradient(top, #727296, #aaaacf);
+  background: -o-linear-gradient(top, #727296, #aaaacf);
+  background-image: -ms-linear-gradient(top, #727296 0%, #aaaacf 100%);
+  color: #fff;
+}
