@@ -192,3 +192,16 @@ body {
   background-image: -ms-linear-gradient(top, #727296 0%, #aaaacf 100%);
   color: #fff;
 }
+
+.LBh1 {
+  color: LightBlue;
+}
+
+.Lh1 {
+  color: rgb(191, 191, 242);
+;
+}
+
+.Nh1 {
+  color: Navy;  outline: 1px;
+}
